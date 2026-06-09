@@ -1,4 +1,4 @@
-# GS---Prompt-and-Artificial-Inteligence
+# GS---Monitoramento Inteligente
 
 O projeto é um sistema inteligente de monitoramento para controle básico de uma missão espacial experimental ele interpreta e exibe dados simulados relacionados às condições operacionais da missão.
 
